@@ -1,5 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="zh" /><updated>2025-09-10T08:16:23+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">电子垃圾制作中心</title><subtitle>make scraps to change the world!
-</subtitle><author><name>makescraps</name><email>makescraps@gmail.com</email></author><entry><title type="html">人生目标1.0</title><link href="http://localhost:4000/2025/09/10/plan-to-do.html" rel="alternate" type="text/html" title="人生目标1.0" /><published>2025-09-10T00:00:00+08:00</published><updated>2025-09-10T00:00:00+08:00</updated><id>http://localhost:4000/2025/09/10/plan-to-do</id><content type="html" xml:base="http://localhost:4000/2025/09/10/plan-to-do.html"><![CDATA[<p>一直以来很想做一些有价值、有意义或者单纯好玩的事情，有很多想法，但都没在堪称年少有为的阶段去实习。
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="zh" /><updated>2025-11-03T00:39:20+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">电子垃圾制作中心</title><subtitle>make scraps to change the world!
+</subtitle><author><name>makescraps</name><email>makescraps@gmail.com</email></author><entry><title type="html">大模型的端侧部署</title><link href="http://localhost:4000/2025/10/31/deployment-of-edge-llm.html" rel="alternate" type="text/html" title="大模型的端侧部署" /><published>2025-10-31T00:00:00+08:00</published><updated>2025-10-31T00:00:00+08:00</updated><id>http://localhost:4000/2025/10/31/deployment-of-edge-llm</id><content type="html" xml:base="http://localhost:4000/2025/10/31/deployment-of-edge-llm.html"><![CDATA[<p>出于数据隐私性或者网络可达形的考虑，AI模型有时需要离线部署。
+作为绝大多数人最易获取的计算设备，智能手机端侧部署是实现普适AI最直接、最必然的方式。
+目前移动端部署大模型有以下方式：
+<!--more--></p>
+
+<h4 id="termux">Termux</h4>
+
+<p><a href="https://termux.dev/">Termux</a> 是一个适用于 Android 的终端模拟器，其环境类似于 Linux 环境。在termux中，可以使用llama-cpp或ollama等方式进行LLM的推理。</p>
+
+<h4 id="chaquopy">Chaquopy</h4>
+
+<p><a href="https://chaquo.com/chaquopy/">Chaquopy</a> 提供了在 Android 应用中添加 Python 组件所需 SDK，相比其他方案，该方式支持的 python 版本受限且 LLM 推理所需的部分 pip 包需要自行构建。</p>
+
+<h4 id="mnn-llm">MNN-LLM</h4>
+
+<p><a href="https://www.mnn.zone">MNN-LLM</a> 是一个机器学习训练和推理框架，和 <a href="https://llm.mlc.ai/">MLC-LLM</a> 类似，该方案提供了 LLM 在端侧设备的运行时解决方案并进行了大量的算子优化。</p>
+
+<h4 id="executorch">ExecuTorch</h4>
+
+<p><a href="https://docs.pytorch.org/executorch/stable/index.html">ExecuTorch</a> 是 PyTorch 社区针对现有 pytorch 模型在边缘设备上推理提供的解决方案，与此对应的有 <a href="https://ai.google.dev/edge">Google AI Edge</a>。</p>
+
+<p>目前来说，Termux、MNN-LLM 已有部分成功应用案例，长远来看，MNN-LLM 和 ExecuTorch 则更有可能成为主流。</p>]]></content><author><name>makescraps</name><email>makescraps@gmail.com</email></author><category term="AI" /><category term="移动开发" /><summary type="html"><![CDATA[出于数据隐私性或者网络可达形的考虑，AI模型有时需要离线部署。 作为绝大多数人最易获取的计算设备，智能手机端侧部署是实现普适AI最直接、最必然的方式。 目前移动端部署大模型有以下方式：]]></summary></entry><entry><title type="html">人生目标1.0</title><link href="http://localhost:4000/2025/09/10/plan-to-do.html" rel="alternate" type="text/html" title="人生目标1.0" /><published>2025-09-10T00:00:00+08:00</published><updated>2025-09-10T00:00:00+08:00</updated><id>http://localhost:4000/2025/09/10/plan-to-do</id><content type="html" xml:base="http://localhost:4000/2025/09/10/plan-to-do.html"><![CDATA[<p>一直以来很想做一些有价值、有意义或者单纯好玩的事情，有很多想法，但都没在堪称年少有为的阶段去实习。
 现在一些事情可能已经过时，但是去做一件过时的事情也好过空想。
 在此记录一些奇思异想，用以鞭策自己吧。</p>
 
