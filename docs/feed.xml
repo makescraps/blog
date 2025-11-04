@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="zh" /><updated>2025-11-03T00:39:20+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">电子垃圾制作中心</title><subtitle>make scraps to change the world!
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="zh" /><updated>2025-11-04T23:52:21+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">电子垃圾制作中心</title><subtitle>make scraps to change the world!
 </subtitle><author><name>makescraps</name><email>makescraps@gmail.com</email></author><entry><title type="html">大模型的端侧部署</title><link href="http://localhost:4000/2025/10/31/deployment-of-edge-llm.html" rel="alternate" type="text/html" title="大模型的端侧部署" /><published>2025-10-31T00:00:00+08:00</published><updated>2025-10-31T00:00:00+08:00</updated><id>http://localhost:4000/2025/10/31/deployment-of-edge-llm</id><content type="html" xml:base="http://localhost:4000/2025/10/31/deployment-of-edge-llm.html"><![CDATA[<p>出于数据隐私性或者网络可达形的考虑，AI模型有时需要离线部署。
 作为绝大多数人最易获取的计算设备，智能手机端侧部署是实现普适AI最直接、最必然的方式。
 目前移动端部署大模型有以下方式：
@@ -129,6 +129,24 @@
 现而今的年轻人蕴藏着巨大能量，充满无限的可能。
 认可自己价值，摆脱加班桎梏，敢想敢做——天地气象，必将焕然一新！</p>
 
-<p align="right">(无奈写下这些，希望这个世界能再变好一点。)</p>]]></content><author><name>makescraps</name><email>makescraps@gmail.com</email></author><category term="择业" /><summary type="html"><![CDATA[今天是高考的日子，马上又有一批朝气蓬勃的学生踏入大学校园，也有人即将离开学校，开始为工作奔波。 韶华易逝，难免感慨，在此分享一下自己对择业的看法。 往者不可谏，来者犹可追。]]></summary></entry><entry><title type="html">Hello World!</title><link href="http://localhost:4000/2018/06/01/hello-world.html" rel="alternate" type="text/html" title="Hello World!" /><published>2018-06-01T00:00:00+08:00</published><updated>2018-06-01T00:00:00+08:00</updated><id>http://localhost:4000/2018/06/01/hello-world</id><content type="html" xml:base="http://localhost:4000/2018/06/01/hello-world.html"><![CDATA[<p>这是一篇测试内容，用于测试页面是否正常显示。</p>
+<p align="right">(无奈写下这些，希望这个世界能再变好一点。)</p>]]></content><author><name>makescraps</name><email>makescraps@gmail.com</email></author><category term="择业" /><summary type="html"><![CDATA[今天是高考的日子，马上又有一批朝气蓬勃的学生踏入大学校园，也有人即将离开学校，开始为工作奔波。 韶华易逝，难免感慨，在此分享一下自己对择业的看法。 往者不可谏，来者犹可追。]]></summary></entry><entry><title type="html">如何判断虚假信息</title><link href="http://localhost:4000/2023/09/01/how-to-judge-truth.html" rel="alternate" type="text/html" title="如何判断虚假信息" /><published>2023-09-01T00:00:00+08:00</published><updated>2023-09-01T00:00:00+08:00</updated><id>http://localhost:4000/2023/09/01/how-to-judge-truth</id><content type="html" xml:base="http://localhost:4000/2023/09/01/how-to-judge-truth.html"><![CDATA[<blockquote>
+  <p>吃一堑，长一智。</p>
+</blockquote>
+
+<!--more-->
+
+<h4 id="一件事情如果太符合预期那么它大概率不是真的">一件事情如果太符合预期，那么它大概率不是真的</h4>
+
+<p>这里的预期是说作为一个故事的预期，或者说是戏剧性。
+现实中的琐事往往很无聊，或者没头没尾。
+而人们的想象力又实在有限，于是会在事件中投射出小说的情节。
+比如默默无闻的校园大爷真正身份是数学天才，
+或者小作坊诞生出了世界级成果。
+网络热点大多如此。</p>
+
+<ul>
+  <li>2023年7月，LK99常温超导符合此项</li>
+  <li>2024年6月，阿里数学天才符合此项</li>
+</ul>]]></content><author><name>makescraps</name><email>makescraps@gmail.com</email></author><category term="21世纪生存指南" /><summary type="html"><![CDATA[吃一堑，长一智。]]></summary></entry><entry><title type="html">Hello World!</title><link href="http://localhost:4000/2018/06/01/hello-world.html" rel="alternate" type="text/html" title="Hello World!" /><published>2018-06-01T00:00:00+08:00</published><updated>2018-06-01T00:00:00+08:00</updated><id>http://localhost:4000/2018/06/01/hello-world</id><content type="html" xml:base="http://localhost:4000/2018/06/01/hello-world.html"><![CDATA[<p>这是一篇测试内容，用于测试页面是否正常显示。</p>
 
 <!--more-->]]></content><author><name>makescraps</name><email>makescraps@gmail.com</email></author><category term="测试" /><summary type="html"><![CDATA[这是一篇测试内容，用于测试页面是否正常显示。]]></summary></entry></feed>
