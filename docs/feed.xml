@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="zh" /><updated>2025-11-04T23:52:21+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">电子垃圾制作中心</title><subtitle>make scraps to change the world!
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="zh" /><updated>2025-11-10T01:12:10+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">电子垃圾制作中心</title><subtitle>make scraps to change the world!
 </subtitle><author><name>makescraps</name><email>makescraps@gmail.com</email></author><entry><title type="html">大模型的端侧部署</title><link href="http://localhost:4000/2025/10/31/deployment-of-edge-llm.html" rel="alternate" type="text/html" title="大模型的端侧部署" /><published>2025-10-31T00:00:00+08:00</published><updated>2025-10-31T00:00:00+08:00</updated><id>http://localhost:4000/2025/10/31/deployment-of-edge-llm</id><content type="html" xml:base="http://localhost:4000/2025/10/31/deployment-of-edge-llm.html"><![CDATA[<p>出于数据隐私性或者网络可达形的考虑，AI模型有时需要离线部署。
 作为绝大多数人最易获取的计算设备，智能手机端侧部署是实现普适AI最直接、最必然的方式。
 目前移动端部署大模型有以下方式：
@@ -139,7 +139,7 @@
 
 <p>这里的预期是说作为一个故事的预期，或者说是戏剧性。
 现实中的琐事往往很无聊，或者没头没尾。
-而人们的想象力又实在有限，于是会在事件中投射出小说的情节。
+而人们的想象力又实在有限，于是会事件中投射出小说的情节。
 比如默默无闻的校园大爷真正身份是数学天才，
 或者小作坊诞生出了世界级成果。
 网络热点大多如此。</p>
@@ -147,6 +147,17 @@
 <ul>
   <li>2023年7月，LK99常温超导符合此项</li>
   <li>2024年6月，阿里数学天才符合此项</li>
+</ul>
+
+<h4 id="不同身份的相同表述不能增加事情的可信度">不同身份的相同表述，不能增加事情的可信度</h4>
+
+<p>三人成虎放到现代，应当是三百人甚至是三万人。
+为了跟上热点，大量的个人或媒体账号都会急切地发表自己的观点，而这些观点仅仅是现有信息的杂糅。
+于是网络上往往出现同声一气，众口一词的盛状，而结果往往了了。
+归根到底，一件事情的观点可不可信，在于有没有经过细致的调查分析。</p>
+
+<ul>
+  <li>2024年2月，巴黎丢失作业本符合此项</li>
 </ul>]]></content><author><name>makescraps</name><email>makescraps@gmail.com</email></author><category term="21世纪生存指南" /><summary type="html"><![CDATA[吃一堑，长一智。]]></summary></entry><entry><title type="html">Hello World!</title><link href="http://localhost:4000/2018/06/01/hello-world.html" rel="alternate" type="text/html" title="Hello World!" /><published>2018-06-01T00:00:00+08:00</published><updated>2018-06-01T00:00:00+08:00</updated><id>http://localhost:4000/2018/06/01/hello-world</id><content type="html" xml:base="http://localhost:4000/2018/06/01/hello-world.html"><![CDATA[<p>这是一篇测试内容，用于测试页面是否正常显示。</p>
 
 <!--more-->]]></content><author><name>makescraps</name><email>makescraps@gmail.com</email></author><category term="测试" /><summary type="html"><![CDATA[这是一篇测试内容，用于测试页面是否正常显示。]]></summary></entry></feed>
