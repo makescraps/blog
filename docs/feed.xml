@@ -1,5 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="zh" /><updated>2026-04-07T23:13:39+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">电子垃圾制作中心</title><subtitle>make scraps to change the world!
-</subtitle><author><name>makescraps</name><email>makescraps@gmail.com</email></author><entry><title type="html">GDevelop 难堪大用</title><link href="http://localhost:4000/2026/03/27/gdevelop-experience.html" rel="alternate" type="text/html" title="GDevelop 难堪大用" /><published>2026-03-27T00:00:00+08:00</published><updated>2026-03-27T00:00:00+08:00</updated><id>http://localhost:4000/2026/03/27/gdevelop-experience</id><content type="html" xml:base="http://localhost:4000/2026/03/27/gdevelop-experience.html"><![CDATA[<p>试用了几天 GDevelop，做了几款游戏 demo，生成结果大同小异，较 claude code 更快更差。
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="zh" /><updated>2026-06-29T23:33:54+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">电子垃圾制作中心</title><subtitle>make scraps to change the world!
+</subtitle><author><name>makescraps</name><email>makescraps@gmail.com</email></author><entry><title type="html">Claude Code 账号被封</title><link href="http://localhost:4000/2026/06/28/claude-code-blocked.html" rel="alternate" type="text/html" title="Claude Code 账号被封" /><published>2026-06-28T00:00:00+08:00</published><updated>2026-06-28T00:00:00+08:00</updated><id>http://localhost:4000/2026/06/28/claude-code-blocked</id><content type="html" xml:base="http://localhost:4000/2026/06/28/claude-code-blocked.html"><![CDATA[<p>Claude 订阅昨天扣费后，晚上突然收到这么一封邮件。
+大致意思是系统检测到非法使用所以把账号给封禁了。</p>
+
+<p><img src="/static/claude-blocked.png" alt="邮件截图" /></p>
+
+<p>只能说，Anthropic还是店大欺客，没有理由没有协商，甚至没提到这几日我并未使用的相关服务。</p>
+
+<p>尝试将部分工作切到codex，但是先前工作流的衔接不是很好
+——旧问题没有解决反而引入了许多新bug，后续要重头梳理了。</p>
+
+<p>对于团队项目来说，境外工具的持续性也成为不得不考虑的风险了。
+<!--more--></p>]]></content><author><name>makescraps</name><email>makescraps@gmail.com</email></author><category term="游戏开发" /><category term="AI" /><summary type="html"><![CDATA[Claude 订阅昨天扣费后，晚上突然收到这么一封邮件。 大致意思是系统检测到非法使用所以把账号给封禁了。 只能说，Anthropic还是店大欺客，没有理由没有协商，甚至没提到这几日我并未使用的相关服务。 尝试将部分工作切到codex，但是先前工作流的衔接不是很好 ——旧问题没有解决反而引入了许多新bug，后续要重头梳理了。 对于团队项目来说，境外工具的持续性也成为不得不考虑的风险了。]]></summary></entry><entry><title type="html">GDevelop 难堪大用</title><link href="http://localhost:4000/2026/03/27/gdevelop-experience.html" rel="alternate" type="text/html" title="GDevelop 难堪大用" /><published>2026-03-27T00:00:00+08:00</published><updated>2026-03-27T00:00:00+08:00</updated><id>http://localhost:4000/2026/03/27/gdevelop-experience</id><content type="html" xml:base="http://localhost:4000/2026/03/27/gdevelop-experience.html"><![CDATA[<p>试用了几天 GDevelop，做了几款游戏 demo，生成结果大同小异，较 claude code 更快更差。
 然而更大的问题是，在此基础上修复或继续开发的难度陡增，调试更是灾难。
 VIBE CODING 可能会革新游戏引擎，但绝不是以这种引入 DSL 的方式。</p>
 
